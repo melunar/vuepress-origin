@@ -10,5 +10,12 @@ module.exports = {
       ] },
       { text: 'Baidu', link: 'https://baidu.com' },
     ]
-  }
+  },
+  port: 8088,
+
+
+
+
+  // deploy
+  base: '/press/'
 }
